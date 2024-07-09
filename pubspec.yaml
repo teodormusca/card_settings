@@ -13,8 +13,9 @@ dependencies:
   meta: ^1.8.0
   extended_masked_text: ^2.3.1
   flutter_cupertino_settings: 
-    git: https://github.com/teodormusca/flutter_cupertino_settings.git
-    ref: master
+    git:
+      url: https://github.com/teodormusca/flutter_cupertino_settings.git
+      ref: master
   flutter_material_pickers: ^3.5.0 # show android style dialogs
   pattern_formatter: ^3.0.0 # used for localized doubles
   flutter_multi_formatter: ^2.10.4  # used for localized phone numbers
